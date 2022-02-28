@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231493047400",
+    "project_id": "rn-intro",
+    "storage_bucket": "rn-intro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231493047400:android:c2d062745f24dd9777d7dd",
+        "android_client_info": {
+          "package_name": "com.firebaseintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231493047400-4atbsvk3f0tgv8sdmblp0e9bu51krrcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebaseintro",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "231493047400-lul43ei0bm8s1a5gtib0rbmr6bvh2mbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBRYC2EJZBDD8oFQat2mNGpadhYo4QAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231493047400-lul43ei0bm8s1a5gtib0rbmr6bvh2mbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
